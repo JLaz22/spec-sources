@@ -12,7 +12,8 @@ DB_PASSWORD = os.getenv("DB_PASSWORD")
 DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
 DB_NAME = os.getenv("DB_NAME")
-
+ 
+# # DATABASE_URL = "mysql+pymysql://joel:8Q8Tr_qRquTZ23y8@10.128.0.2/joel":
 # Optional: allow full DATABASE_URL override
 DATABASE_URL = os.getenv("DATABASE_URL")
 
