@@ -1,0 +1,5 @@
+reavt frontend framework 
+
+react state- dynamocally updates variable w interaction
+states- variable that force page to re-render f they cange
+react hooks- useState()
